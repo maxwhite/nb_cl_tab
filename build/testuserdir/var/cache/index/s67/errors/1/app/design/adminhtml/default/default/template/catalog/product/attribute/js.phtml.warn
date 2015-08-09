@@ -1,0 +1,6 @@
+ERROR_NO_BADGE:223:Expected case but found __UNKNOWN__\n        __UNKNOWN__\n        ^
+ERROR_NO_BADGE:224:Expected an operand but found case\n            case '__UNKNOWN__'\d\n            ^
+ERROR_NO_BADGE:228:Illegal break statement\n            break;\n            ^
+ERROR_NO_BADGE:230:Expected an operand but found default\n        default\d\n        ^
+ERROR_NO_BADGE:234:Illegal break statement\n        break;\n        ^
+ERROR_NO_BADGE:287:Expected eof but found }\n}\n^

@@ -1,0 +1,2 @@
+ERROR_NO_BADGE:533:Expected \d but found __UNKNOWN__\n            __UNKNOWN__ \d $('__UNKNOWN__').value__UNKNOWN__
+ERROR_NO_BADGE:581:Expected eof but found }\n}\n^

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.hudson.php">
+    <module_version install_time="1439154913846" last="true" origin="Дистрибутив NetBeans" specification_version="1.16.1">
+        <file crc="2739177703" name="config/Modules/org-netbeans-modules-hudson-php.xml"/>
+        <file crc="891731452" name="modules/locale/org-netbeans-modules-hudson-php_ja.jar"/>
+        <file crc="296707705" name="modules/locale/org-netbeans-modules-hudson-php_pt_BR.jar"/>
+        <file crc="2400647656" name="modules/locale/org-netbeans-modules-hudson-php_ru.jar"/>
+        <file crc="3755204080" name="modules/locale/org-netbeans-modules-hudson-php_zh_CN.jar"/>
+        <file crc="147054093" name="modules/org-netbeans-modules-hudson-php.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.php.api.testing/0">
+    <module_version install_time="1439154909957" last="true" origin="Дистрибутив NetBeans" specification_version="0.14.1">
+        <file crc="3510836631" name="config/Modules/org-netbeans-modules-php-api-testing.xml"/>
+        <file crc="3236790963" name="modules/locale/org-netbeans-modules-php-api-testing_ja.jar"/>
+        <file crc="976427268" name="modules/locale/org-netbeans-modules-php-api-testing_pt_BR.jar"/>
+        <file crc="233621309" name="modules/locale/org-netbeans-modules-php-api-testing_ru.jar"/>
+        <file crc="3705505884" name="modules/locale/org-netbeans-modules-php-api-testing_zh_CN.jar"/>
+        <file crc="2492029611" name="modules/org-netbeans-modules-php-api-testing.jar"/>
+    </module_version>
+</module>

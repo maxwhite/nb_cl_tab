@@ -1,0 +1,5 @@
+ERROR_NO_BADGE:75:Expected , but found __UNKNOWN__\n__UNKNOWN__\n^
+ERROR_NO_BADGE:85:Expected ; but found )\n    ),\n    ^
+ERROR_NO_BADGE:89:Expected ; but found \d\n    add \d function(templateData, insertAfterId)\n        ^
+ERROR_NO_BADGE:96:Expected \d but found __UNKNOWN__\n                __UNKNOWN__ \d '',\n             
+ERROR_NO_BADGE:99:Expected eof but found }\n            };\n            ^

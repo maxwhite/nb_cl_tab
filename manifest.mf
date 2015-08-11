@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-AutoUpdate-Show-In-Client: true
-OpenIDE-Module: org.myorg.mymodule
-OpenIDE-Module-Localizing-Bundle: org/myorg/mymodule/Bundle.properties
-OpenIDE-Module-Install: org/myorg/mymodule/MyModuleLoader.class
-OpenIDE-Module-Specification-Version: 1.0
-
